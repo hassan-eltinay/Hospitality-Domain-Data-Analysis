@@ -7,7 +7,7 @@ A BI report on a hotels dataset that has 3 months of data
 Like any business, operating a hotel takes hard work and constant analysis. To survive in the hospitality industry, hotels must benchmark their performance throughout the year and compare it to their competitive set. Some of the requirements include:
 
 - Revenue Management: Developing strategies to optimize room rates and occupancy rates throughout the year is essential. This may involve dynamic pricing, packages, and promotions. Data analysis is crucial for revenue management. By analyzing factors like booking patterns, competitor pricing, seasonality, and local events, hotels can develop dynamic pricing strategies to maximize revenue throughout the year.
-- 
+  
 - Digital Marketing Strategy: Having a strong online presence through a user-friendly website, social media engagement, and online travel agency (OTA) listings is vital to attract guests.  Data analytics helps target marketing campaigns to specific guest segments based on demographics, interests, and booking behavior. This leads to more qualified leads and a higher return on marketing investment (ROI).
   
 - Competitive Analysis: Understanding competitor offerings and pricing helps hotels position themselves effectively in the market.  Data analysis allows hotels to compare their performance metrics (occupancy rate, average daily rate) with competitors. This helps them identify areas for improvement and develop a competitive advantage.
