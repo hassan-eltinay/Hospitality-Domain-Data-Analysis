@@ -19,17 +19,17 @@ Like any business, operating a hotel takes hard work and constant analysis. To s
 
 
 # Data transformations included:
-Checking data types
-Setting correct headers
-Removing unnecessary columns
-Cleaning of text values
+- Checking data types
+- Setting correct headers
+- Removing unnecessary columns
+- Cleaning of text values
 
 
 
 
 # Data modeling:
 
-Applied a star schema, as we have two fact tables and three dim tables, established the correct relationships between the tables:
+- Applied a star schema, as we have two fact tables and three dim tables, established the correct relationships between the tables:
 
 dim_hotels with both fact tables in a 1tomany using property_id column (which is common between the tables)
 
